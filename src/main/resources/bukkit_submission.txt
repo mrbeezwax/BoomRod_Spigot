@@ -1,0 +1,34 @@
+Hey all! This is my first Bukkit/Spigot plugin so I am open to feedback and suggestions.
+
+ 
+
+What does it do?
+
+When you have a BoomRod in your hand, right-click to create a harmless explosion at where you're looking. It could also be used as a explosive tool to terraform.
+
+ 
+
+How do I get one?
+
+In-game, type "/boomrod" to receive the weapon.
+
+ 
+
+Who can use it?
+
+As of now, only OPs can successfully equip & wield a BoomRod with "/boomrod".
+
+However, any player can wield a BoomRod and explode anyone and anything.
+
+ 
+
+Planned Features
+
+Add damage
+Option to adjust radius of explosion
+Option to adjust damage of explosion
+Anti-spamming (disable players from holding down right-click)
+Permissions
+A better image?
+A better name?
+And more! (Please suggest any ideas in the comments section)
